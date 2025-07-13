@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Interactive-Music-Streaming-Platform/static/css/main.5e4976ef.css",
+    "main.js": "/Interactive-Music-Streaming-Platform/static/js/main.5f50d281.js",
+    "static/js/787.ab9f064c.chunk.js": "/Interactive-Music-Streaming-Platform/static/js/787.ab9f064c.chunk.js",
+    "index.html": "/Interactive-Music-Streaming-Platform/index.html",
+    "main.5e4976ef.css.map": "/Interactive-Music-Streaming-Platform/static/css/main.5e4976ef.css.map",
+    "main.5f50d281.js.map": "/Interactive-Music-Streaming-Platform/static/js/main.5f50d281.js.map",
+    "787.ab9f064c.chunk.js.map": "/Interactive-Music-Streaming-Platform/static/js/787.ab9f064c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4976ef.css",
+    "static/js/main.5f50d281.js"
+  ]
+}
