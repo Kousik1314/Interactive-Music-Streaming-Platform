@@ -33,8 +33,9 @@ function App() {
     setMessage("");
 
     try {
+      const apiUrl = process.env.REACT_APP_NOCODE_API_URL;
       const response = await fetch(
-        `https://v1.nocodeapi.com/YOUR_USERNAME/spotify/YOURKEY/search?type=track&q=${keyword}&offset=${offset}`
+       `${apiUrl}/search?type=track&q=${keyword}&offset=${offset}`
       );
 
       if (!response.ok) {
