@@ -3,6 +3,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/Kousik1314/Interactive-Music-Streaming-Platform)
 
+
+Live Demo: [Link](https://kousik1314.github.io/Interactive-Music-Streaming-Platform/)
+
+
 An interactive music streaming platform built with React that allows users to search for songs, listen to previews, and curate their own lists of liked and pinned tracks.
 
 <!-- Optional: Add a screenshot of your project -->
@@ -89,7 +93,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 Kousik Maity - [@Kousik1314](https://github.com/Kousik1314)
 
-Project Link: [https://github.com/Kousik1314/Interactive-Music-Streaming-Platform](https://github.com/Kousik1314/Interactive-Music-Streaming-Platform)
+Live Demo: [Link](https://kousik1314.github.io/Interactive-Music-Streaming-Platform/)
 
 ---
 
