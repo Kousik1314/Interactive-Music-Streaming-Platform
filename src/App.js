@@ -34,7 +34,7 @@ function App() {
 
     try {
       const response = await fetch(
-        `https://v1.nocodeapi.com/hdkhrkgng/spotify/KoMmMpUuRVTnGOoP/search?type=track&q=${keyword}&offset=${offset}`
+        `https://v1.nocodeapi.com/YOUR_USERNAME/spotify/YOURKEY/search?type=track&q=${keyword}&offset=${offset}`
       );
 
       if (!response.ok) {
