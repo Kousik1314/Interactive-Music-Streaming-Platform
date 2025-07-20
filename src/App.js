@@ -108,7 +108,7 @@ function App() {
             ) : (
               <>
                 <i className="bi bi-music-note-list"></i>
-                <h1>Welcome to Hey-Music!</h1>
+                <h1>Welcome to Hey-Ringtone!</h1>
                 <h3 className="py-3 text-muted">Search for a song to get started</h3>
                 <a
                   target="_blank"

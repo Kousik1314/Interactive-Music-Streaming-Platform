@@ -37,7 +37,7 @@ const Navbar = ({ keyword, handleKeyPress, setKeyword, fetchMusicData, handleRes
         <div className="container-fluid">
           {/* --- UPDATED: Added onClick to this Link --- */}
           <Link className="navbar-brand" to="/" style={brandStyle} onClick={handleResetHome}>
-            <i className="bi bi-music-note-list mx-2"></i>Hey-Music
+            <i className="bi bi-music-note-list mx-2"></i>Hey-Ringtone!
           </Link>
 
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
