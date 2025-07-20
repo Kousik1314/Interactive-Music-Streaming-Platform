@@ -1,4 +1,4 @@
-# Hey-Music 🎵
+# Hey-Ringone! 🎵
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Repo Size](https://img.shields.io/github/repo-size/Kousik1314/Interactive-Music-Streaming-Platform)
