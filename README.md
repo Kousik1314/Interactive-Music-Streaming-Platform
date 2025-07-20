@@ -10,7 +10,7 @@ Live Demo: [Link](https://kousik1314.github.io/Interactive-Music-Streaming-Platf
 An interactive music streaming platform built with React that allows users to search for songs, listen to previews, and curate their own lists of liked and pinned tracks.
 
 <!-- Optional: Add a screenshot of your project -->
-![alt text](image.png)
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9643bd63-d74a-4fb8-a9b3-e61c14732824" />)
 
 
 ## About The Project
